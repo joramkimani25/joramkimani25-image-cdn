@@ -20,12 +20,12 @@ https://raw.githubusercontent.com/joramkimani25/joramkimani25-image-cdn/main/ima
 
 ### HTML
 ```html
-<img src="https://joramkimani25.github.io/joramkimani25-image-cdn/image1.png" alt="Image 1">
+<img src="https://joramkimani25.github.io/joramkimani25-image-cdn/image1.png" alt="Descriptive text for your image">
 ```
 
 ### Markdown
 ```markdown
-![Image 1](https://joramkimani25.github.io/joramkimani25-image-cdn/image1.png)
+![Descriptive text for your image](https://joramkimani25.github.io/joramkimani25-image-cdn/image1.png)
 ```
 
 ### Direct Link
